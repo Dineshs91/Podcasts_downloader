@@ -4,6 +4,8 @@ Everyday i visit [talkpython] (https://talkpython.fm/ "Talk Python") to check la
 
 A small script which does the same, and downloads the latest episode.
 
+### Setup:
+Open the script and update the location to the location you want the file to be stored
 
 #### How I run.
 I run the script as a cron-job everyday at 6 AM to download the episode and to listen on way to work.

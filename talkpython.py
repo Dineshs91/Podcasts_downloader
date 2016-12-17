@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 URL = "https://talkpython.fm/episodes/latest/"
 
 #Location where the podcast will be stored.
-LOCATION = "/home/satish/Music/talkPython/"
+LOCATION = ""
 
 #loaction_ref to check if the latest episode has already been downloaded
 LOCATION_REF = LOCATION + ".talkpython"
